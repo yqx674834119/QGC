@@ -1,6 +1,7 @@
 name: Android-Windows
 
 on:
+  workflow_dispatch:  # ✅ 允许你在 GitHub Actions 页面点击 Run workflow 启动构建
   push:
     branches:
       - master
