@@ -1,0 +1,6 @@
+<RCC>
+  <qresource prefix="/">
+    <file alias="/qml/QGroundControl/FlightDisplay">/home/livablecity/qgroundcontrol/qml/QGroundControl/FlightDisplay</file>
+
+  </qresource>
+</RCC>

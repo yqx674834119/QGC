@@ -1,0 +1,5 @@
+module QGroundControl.MainWindow
+typeinfo MainWindowModule.qmltypes
+prefer :/qml/QGroundControl/MainWindow/
+MainWindow 1.0 MainWindow.qml
+

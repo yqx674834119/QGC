@@ -1,0 +1,21 @@
+# ninja log v5
+0	9	1749634594781789773	px4-gpsdrivers-populate-prefix/src/px4-gpsdrivers-populate-stamp/px4-gpsdrivers-populate-mkdir	bf062b51ac53b1ec
+0	9	1749634594781789773	/home/livablecity/qgroundcontrol/_deps/px4-gpsdrivers-subbuild/px4-gpsdrivers-populate-prefix/src/px4-gpsdrivers-populate-stamp/px4-gpsdrivers-populate-mkdir	bf062b51ac53b1ec
+9	1456	1749634596232428908	px4-gpsdrivers-populate-prefix/src/px4-gpsdrivers-populate-stamp/px4-gpsdrivers-populate-download	b8c9959b8d6e9036
+9	1456	1749634596232428908	/home/livablecity/qgroundcontrol/_deps/px4-gpsdrivers-subbuild/px4-gpsdrivers-populate-prefix/src/px4-gpsdrivers-populate-stamp/px4-gpsdrivers-populate-download	b8c9959b8d6e9036
+1456	2152	0	px4-gpsdrivers-populate-prefix/src/px4-gpsdrivers-populate-stamp/px4-gpsdrivers-populate-update	8468727f71c727a6
+1456	2152	0	/home/livablecity/qgroundcontrol/_deps/px4-gpsdrivers-subbuild/px4-gpsdrivers-populate-prefix/src/px4-gpsdrivers-populate-stamp/px4-gpsdrivers-populate-update	8468727f71c727a6
+2152	2160	1749634596933114948	px4-gpsdrivers-populate-prefix/src/px4-gpsdrivers-populate-stamp/px4-gpsdrivers-populate-patch	b3e045c9ea073e5e
+2152	2160	1749634596933114948	/home/livablecity/qgroundcontrol/_deps/px4-gpsdrivers-subbuild/px4-gpsdrivers-populate-prefix/src/px4-gpsdrivers-populate-stamp/px4-gpsdrivers-populate-patch	b3e045c9ea073e5e
+2160	2166	1749634596943124748	px4-gpsdrivers-populate-prefix/src/px4-gpsdrivers-populate-stamp/px4-gpsdrivers-populate-configure	e541f98c0f24009a
+2160	2166	1749634596943124748	/home/livablecity/qgroundcontrol/_deps/px4-gpsdrivers-subbuild/px4-gpsdrivers-populate-prefix/src/px4-gpsdrivers-populate-stamp/px4-gpsdrivers-populate-configure	e541f98c0f24009a
+2166	2172	1749634596943124748	px4-gpsdrivers-populate-prefix/src/px4-gpsdrivers-populate-stamp/px4-gpsdrivers-populate-build	88b0b7c7c6ecb251
+2166	2172	1749634596943124748	/home/livablecity/qgroundcontrol/_deps/px4-gpsdrivers-subbuild/px4-gpsdrivers-populate-prefix/src/px4-gpsdrivers-populate-stamp/px4-gpsdrivers-populate-build	88b0b7c7c6ecb251
+2172	2179	1749634596953134547	px4-gpsdrivers-populate-prefix/src/px4-gpsdrivers-populate-stamp/px4-gpsdrivers-populate-install	ce18fa06a478e431
+2172	2179	1749634596953134547	/home/livablecity/qgroundcontrol/_deps/px4-gpsdrivers-subbuild/px4-gpsdrivers-populate-prefix/src/px4-gpsdrivers-populate-stamp/px4-gpsdrivers-populate-install	ce18fa06a478e431
+2179	2186	1749634596963144771	px4-gpsdrivers-populate-prefix/src/px4-gpsdrivers-populate-stamp/px4-gpsdrivers-populate-test	3a7b497eca910980
+2179	2186	1749634596963144771	/home/livablecity/qgroundcontrol/_deps/px4-gpsdrivers-subbuild/px4-gpsdrivers-populate-prefix/src/px4-gpsdrivers-populate-stamp/px4-gpsdrivers-populate-test	3a7b497eca910980
+2186	2194	1749634596963144771	CMakeFiles/px4-gpsdrivers-populate-complete	b990fce14b18cd69
+2186	2194	1749634596963144771	px4-gpsdrivers-populate-prefix/src/px4-gpsdrivers-populate-stamp/px4-gpsdrivers-populate-done	b990fce14b18cd69
+2186	2194	1749634596963144771	/home/livablecity/qgroundcontrol/_deps/px4-gpsdrivers-subbuild/CMakeFiles/px4-gpsdrivers-populate-complete	b990fce14b18cd69
+2186	2194	1749634596963144771	/home/livablecity/qgroundcontrol/_deps/px4-gpsdrivers-subbuild/px4-gpsdrivers-populate-prefix/src/px4-gpsdrivers-populate-stamp/px4-gpsdrivers-populate-done	b990fce14b18cd69

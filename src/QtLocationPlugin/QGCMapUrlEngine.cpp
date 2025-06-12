@@ -42,7 +42,7 @@ const QList<SharedMapProvider> UrlFactory::_providers = {
     std::make_shared<SvalbardMapProvider>(),
 
     std::make_shared<EniroMapProvider>(),
-
+    std::make_shared<MapGENMapProvider>(),
     std::make_shared<EsriWorldStreetMapProvider>(),
     std::make_shared<EsriWorldSatelliteMapProvider>(),
     std::make_shared<EsriTerrainMapProvider>(),

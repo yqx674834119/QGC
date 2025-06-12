@@ -1,0 +1,21 @@
+# ninja log v5
+0	6	1749634822677195672	shapelib-populate-prefix/src/shapelib-populate-stamp/shapelib-populate-mkdir	825fa6f86960b3ba
+0	6	1749634822677195672	/home/livablecity/qgroundcontrol/_deps/shapelib-subbuild/shapelib-populate-prefix/src/shapelib-populate-stamp/shapelib-populate-mkdir	825fa6f86960b3ba
+6	2400	1749634825077208048	shapelib-populate-prefix/src/shapelib-populate-stamp/shapelib-populate-download	78dd6d675c9f1e68
+6	2400	1749634825077208048	/home/livablecity/qgroundcontrol/_deps/shapelib-subbuild/shapelib-populate-prefix/src/shapelib-populate-stamp/shapelib-populate-download	78dd6d675c9f1e68
+2400	2410	0	shapelib-populate-prefix/src/shapelib-populate-stamp/shapelib-populate-update	5ab610f6c20a2d0f
+2400	2410	0	/home/livablecity/qgroundcontrol/_deps/shapelib-subbuild/shapelib-populate-prefix/src/shapelib-populate-stamp/shapelib-populate-update	5ab610f6c20a2d0f
+2410	2417	1749634825097208073	shapelib-populate-prefix/src/shapelib-populate-stamp/shapelib-populate-patch	549d5c469da66aa3
+2410	2417	1749634825097208073	/home/livablecity/qgroundcontrol/_deps/shapelib-subbuild/shapelib-populate-prefix/src/shapelib-populate-stamp/shapelib-populate-patch	549d5c469da66aa3
+2417	2424	1749634825097208073	shapelib-populate-prefix/src/shapelib-populate-stamp/shapelib-populate-configure	dbb9a3d82935554d
+2417	2424	1749634825097208073	/home/livablecity/qgroundcontrol/_deps/shapelib-subbuild/shapelib-populate-prefix/src/shapelib-populate-stamp/shapelib-populate-configure	dbb9a3d82935554d
+2424	2430	1749634825107208084	shapelib-populate-prefix/src/shapelib-populate-stamp/shapelib-populate-build	dbfd5b10830180b4
+2424	2430	1749634825107208084	/home/livablecity/qgroundcontrol/_deps/shapelib-subbuild/shapelib-populate-prefix/src/shapelib-populate-stamp/shapelib-populate-build	dbfd5b10830180b4
+2430	2435	1749634825107208084	shapelib-populate-prefix/src/shapelib-populate-stamp/shapelib-populate-install	d8866a1046197281
+2430	2435	1749634825107208084	/home/livablecity/qgroundcontrol/_deps/shapelib-subbuild/shapelib-populate-prefix/src/shapelib-populate-stamp/shapelib-populate-install	d8866a1046197281
+2435	2442	1749634825117208095	shapelib-populate-prefix/src/shapelib-populate-stamp/shapelib-populate-test	93ffea825f5a33d7
+2435	2442	1749634825117208095	/home/livablecity/qgroundcontrol/_deps/shapelib-subbuild/shapelib-populate-prefix/src/shapelib-populate-stamp/shapelib-populate-test	93ffea825f5a33d7
+2442	2451	1749634825127208106	CMakeFiles/shapelib-populate-complete	5bb73839daa00456
+2442	2451	1749634825127208106	shapelib-populate-prefix/src/shapelib-populate-stamp/shapelib-populate-done	5bb73839daa00456
+2442	2451	1749634825127208106	/home/livablecity/qgroundcontrol/_deps/shapelib-subbuild/CMakeFiles/shapelib-populate-complete	5bb73839daa00456
+2442	2451	1749634825127208106	/home/livablecity/qgroundcontrol/_deps/shapelib-subbuild/shapelib-populate-prefix/src/shapelib-populate-stamp/shapelib-populate-done	5bb73839daa00456

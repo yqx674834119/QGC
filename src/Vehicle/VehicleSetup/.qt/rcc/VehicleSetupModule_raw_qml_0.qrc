@@ -1,0 +1,15 @@
+<RCC>
+  <qresource prefix="/qml/QGroundControl/VehicleSetup/">
+    <file alias="FirmwareUpgrade.qml">/home/livablecity/qgroundcontrol/src/Vehicle/VehicleSetup/FirmwareUpgrade.qml</file>
+    <file alias="JoystickConfig.qml">/home/livablecity/qgroundcontrol/src/Vehicle/VehicleSetup/JoystickConfig.qml</file>
+    <file alias="JoystickConfigAdvanced.qml">/home/livablecity/qgroundcontrol/src/Vehicle/VehicleSetup/JoystickConfigAdvanced.qml</file>
+    <file alias="JoystickConfigButtons.qml">/home/livablecity/qgroundcontrol/src/Vehicle/VehicleSetup/JoystickConfigButtons.qml</file>
+    <file alias="JoystickConfigCalibration.qml">/home/livablecity/qgroundcontrol/src/Vehicle/VehicleSetup/JoystickConfigCalibration.qml</file>
+    <file alias="JoystickConfigGeneral.qml">/home/livablecity/qgroundcontrol/src/Vehicle/VehicleSetup/JoystickConfigGeneral.qml</file>
+    <file alias="OpticalFlowSensor.qml">/home/livablecity/qgroundcontrol/src/Vehicle/VehicleSetup/OpticalFlowSensor.qml</file>
+    <file alias="SetupParameterEditor.qml">/home/livablecity/qgroundcontrol/src/Vehicle/VehicleSetup/SetupParameterEditor.qml</file>
+    <file alias="SetupView.qml">/home/livablecity/qgroundcontrol/src/Vehicle/VehicleSetup/SetupView.qml</file>
+    <file alias="VehicleSummary.qml">/home/livablecity/qgroundcontrol/src/Vehicle/VehicleSetup/VehicleSummary.qml</file>
+  </qresource>
+</RCC>
+

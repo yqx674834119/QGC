@@ -1,0 +1,21 @@
+# ninja log v5
+0	7	1749634782585628948	geographiclib-populate-prefix/src/geographiclib-populate-stamp/geographiclib-populate-mkdir	6d3f312569fb8d75
+0	7	1749634782585628948	/home/livablecity/qgroundcontrol/_deps/geographiclib-subbuild/geographiclib-populate-prefix/src/geographiclib-populate-stamp/geographiclib-populate-mkdir	6d3f312569fb8d75
+7	39368	1749634821947191755	geographiclib-populate-prefix/src/geographiclib-populate-stamp/geographiclib-populate-download	7639c9088b4dca34
+7	39368	1749634821947191755	/home/livablecity/qgroundcontrol/_deps/geographiclib-subbuild/geographiclib-populate-prefix/src/geographiclib-populate-stamp/geographiclib-populate-download	7639c9088b4dca34
+39368	39378	0	geographiclib-populate-prefix/src/geographiclib-populate-stamp/geographiclib-populate-update	7dc36204ae2e805a
+39368	39378	0	/home/livablecity/qgroundcontrol/_deps/geographiclib-subbuild/geographiclib-populate-prefix/src/geographiclib-populate-stamp/geographiclib-populate-update	7dc36204ae2e805a
+39378	39395	1749634821977191917	geographiclib-populate-prefix/src/geographiclib-populate-stamp/geographiclib-populate-patch	1a0db1fe6d239ea3
+39378	39395	1749634821977191917	/home/livablecity/qgroundcontrol/_deps/geographiclib-subbuild/geographiclib-populate-prefix/src/geographiclib-populate-stamp/geographiclib-populate-patch	1a0db1fe6d239ea3
+39395	39402	1749634821987191971	geographiclib-populate-prefix/src/geographiclib-populate-stamp/geographiclib-populate-configure	7ac516f89dd5ba2
+39395	39402	1749634821987191971	/home/livablecity/qgroundcontrol/_deps/geographiclib-subbuild/geographiclib-populate-prefix/src/geographiclib-populate-stamp/geographiclib-populate-configure	7ac516f89dd5ba2
+39402	39408	1749634821987191971	geographiclib-populate-prefix/src/geographiclib-populate-stamp/geographiclib-populate-build	1e564f644646bf21
+39402	39408	1749634821987191971	/home/livablecity/qgroundcontrol/_deps/geographiclib-subbuild/geographiclib-populate-prefix/src/geographiclib-populate-stamp/geographiclib-populate-build	1e564f644646bf21
+39408	39413	1749634821997192025	geographiclib-populate-prefix/src/geographiclib-populate-stamp/geographiclib-populate-install	213347fbe2ad14e8
+39408	39413	1749634821997192025	/home/livablecity/qgroundcontrol/_deps/geographiclib-subbuild/geographiclib-populate-prefix/src/geographiclib-populate-stamp/geographiclib-populate-install	213347fbe2ad14e8
+39413	39419	1749634821997192025	geographiclib-populate-prefix/src/geographiclib-populate-stamp/geographiclib-populate-test	3da358fccbed8565
+39413	39419	1749634821997192025	/home/livablecity/qgroundcontrol/_deps/geographiclib-subbuild/geographiclib-populate-prefix/src/geographiclib-populate-stamp/geographiclib-populate-test	3da358fccbed8565
+39419	39429	1749634822007192079	CMakeFiles/geographiclib-populate-complete	f7f6702816a69d8
+39419	39429	1749634822007192079	geographiclib-populate-prefix/src/geographiclib-populate-stamp/geographiclib-populate-done	f7f6702816a69d8
+39419	39429	1749634822007192079	/home/livablecity/qgroundcontrol/_deps/geographiclib-subbuild/CMakeFiles/geographiclib-populate-complete	f7f6702816a69d8
+39419	39429	1749634822007192079	/home/livablecity/qgroundcontrol/_deps/geographiclib-subbuild/geographiclib-populate-prefix/src/geographiclib-populate-stamp/geographiclib-populate-done	f7f6702816a69d8

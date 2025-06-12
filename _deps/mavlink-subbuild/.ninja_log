@@ -1,0 +1,21 @@
+# ninja log v5
+0	8	1749634730602467107	mavlink-populate-prefix/src/mavlink-populate-stamp/mavlink-populate-mkdir	194d308e1465fdfd
+0	8	1749634730602467107	/home/livablecity/qgroundcontrol/_deps/mavlink-subbuild/mavlink-populate-prefix/src/mavlink-populate-stamp/mavlink-populate-mkdir	194d308e1465fdfd
+8	32269	1749634762864153131	mavlink-populate-prefix/src/mavlink-populate-stamp/mavlink-populate-download	7a5f9260990b7aac
+8	32269	1749634762864153131	/home/livablecity/qgroundcontrol/_deps/mavlink-subbuild/mavlink-populate-prefix/src/mavlink-populate-stamp/mavlink-populate-download	7a5f9260990b7aac
+32269	32278	0	mavlink-populate-prefix/src/mavlink-populate-stamp/mavlink-populate-update	5fe6abf5b870518c
+32269	32278	0	/home/livablecity/qgroundcontrol/_deps/mavlink-subbuild/mavlink-populate-prefix/src/mavlink-populate-stamp/mavlink-populate-update	5fe6abf5b870518c
+32278	32286	1749634762884153119	mavlink-populate-prefix/src/mavlink-populate-stamp/mavlink-populate-patch	7b3a558600e02b40
+32278	32286	1749634762884153119	/home/livablecity/qgroundcontrol/_deps/mavlink-subbuild/mavlink-populate-prefix/src/mavlink-populate-stamp/mavlink-populate-patch	7b3a558600e02b40
+32286	32292	1749634762894153115	mavlink-populate-prefix/src/mavlink-populate-stamp/mavlink-populate-configure	a9f38a15bcef8ed0
+32286	32292	1749634762894153115	/home/livablecity/qgroundcontrol/_deps/mavlink-subbuild/mavlink-populate-prefix/src/mavlink-populate-stamp/mavlink-populate-configure	a9f38a15bcef8ed0
+32292	32298	1749634762894153115	mavlink-populate-prefix/src/mavlink-populate-stamp/mavlink-populate-build	674e23b5dda19d39
+32292	32298	1749634762894153115	/home/livablecity/qgroundcontrol/_deps/mavlink-subbuild/mavlink-populate-prefix/src/mavlink-populate-stamp/mavlink-populate-build	674e23b5dda19d39
+32298	32304	1749634762904153108	mavlink-populate-prefix/src/mavlink-populate-stamp/mavlink-populate-install	3f0d4b29d3e68e4c
+32298	32304	1749634762904153108	/home/livablecity/qgroundcontrol/_deps/mavlink-subbuild/mavlink-populate-prefix/src/mavlink-populate-stamp/mavlink-populate-install	3f0d4b29d3e68e4c
+32305	32310	1749634762914153101	mavlink-populate-prefix/src/mavlink-populate-stamp/mavlink-populate-test	79cfc23b9ce101f8
+32305	32310	1749634762914153101	/home/livablecity/qgroundcontrol/_deps/mavlink-subbuild/mavlink-populate-prefix/src/mavlink-populate-stamp/mavlink-populate-test	79cfc23b9ce101f8
+32310	32321	1749634762924153097	CMakeFiles/mavlink-populate-complete	c24dc238822bf627
+32310	32321	1749634762924153097	mavlink-populate-prefix/src/mavlink-populate-stamp/mavlink-populate-done	c24dc238822bf627
+32310	32321	1749634762924153097	/home/livablecity/qgroundcontrol/_deps/mavlink-subbuild/CMakeFiles/mavlink-populate-complete	c24dc238822bf627
+32310	32321	1749634762924153097	/home/livablecity/qgroundcontrol/_deps/mavlink-subbuild/mavlink-populate-prefix/src/mavlink-populate-stamp/mavlink-populate-done	c24dc238822bf627

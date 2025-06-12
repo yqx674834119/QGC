@@ -1,0 +1,6 @@
+<RCC>
+  <qresource prefix="/qml/QGroundControl/Toolbar">
+    <file alias="qmldir">/home/livablecity/qgroundcontrol/qml/QGroundControl/Toolbar/qmldir</file>
+  </qresource>
+</RCC>
+

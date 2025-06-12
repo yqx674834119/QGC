@@ -205,7 +205,7 @@
     "shortDesc": "Custom Map URL",
     "longDesc":  "URL for X Y Z map with {x} {y} {z} or {zoom} substitutions. Eg: https://basemaps.linz.govt.nz/v1/tiles/aerial/EPSG:3857/{z}/{x}/{y}.png?api=d01ev80nqcjxddfvc6amyvkk1ka",
     "type":             "string",
-    "default":     ""
+    "default":     "https://livablecitylab.hkust-gz.edu.cn/styles/OSM OpenMapTiles/{z}/{x}/{y}.png?"
 },
 {
     "name":             "vworldToken",

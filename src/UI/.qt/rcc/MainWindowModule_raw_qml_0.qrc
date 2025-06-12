@@ -1,0 +1,6 @@
+<RCC>
+  <qresource prefix="/qml/QGroundControl/MainWindow/">
+    <file alias="MainWindow.qml">/home/livablecity/qgroundcontrol/src/UI/MainWindow.qml</file>
+  </qresource>
+</RCC>
+

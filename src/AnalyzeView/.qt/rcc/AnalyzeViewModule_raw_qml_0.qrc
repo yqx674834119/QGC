@@ -1,0 +1,11 @@
+<RCC>
+  <qresource prefix="/qml/QGroundControl/AnalyzeView/">
+    <file alias="AnalyzeView.qml">/home/livablecity/qgroundcontrol/src/AnalyzeView/AnalyzeView.qml</file>
+    <file alias="GeoTagPage.qml">/home/livablecity/qgroundcontrol/src/AnalyzeView/GeoTagPage.qml</file>
+    <file alias="LogDownloadPage.qml">/home/livablecity/qgroundcontrol/src/AnalyzeView/LogDownloadPage.qml</file>
+    <file alias="MAVLinkConsolePage.qml">/home/livablecity/qgroundcontrol/src/AnalyzeView/MAVLinkConsolePage.qml</file>
+    <file alias="MAVLinkInspectorPage.qml">/home/livablecity/qgroundcontrol/src/AnalyzeView/MAVLinkInspectorPage.qml</file>
+    <file alias="VibrationPage.qml">/home/livablecity/qgroundcontrol/src/AnalyzeView/VibrationPage.qml</file>
+  </qresource>
+</RCC>
+

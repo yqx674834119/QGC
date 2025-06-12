@@ -1,0 +1,6 @@
+<RCC>
+  <qresource prefix="/">
+    <file alias="/qml/QGroundControl/Controls">/home/livablecity/qgroundcontrol/qml/QGroundControl/Controls</file>
+
+  </qresource>
+</RCC>

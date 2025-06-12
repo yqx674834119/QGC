@@ -1,0 +1,21 @@
+<RCC>
+  <qresource prefix="/qml/QGroundControl/Toolbar/">
+    <file alias="APMBatteryIndicator.qml">/home/livablecity/qgroundcontrol/src/UI/toolbar/APMBatteryIndicator.qml</file>
+    <file alias="APMFlightModeIndicator.qml">/home/livablecity/qgroundcontrol/src/UI/toolbar/APMFlightModeIndicator.qml</file>
+    <file alias="APMMainStatusIndicatorContentItem.qml">/home/livablecity/qgroundcontrol/src/UI/toolbar/APMMainStatusIndicatorContentItem.qml</file>
+    <file alias="APMSupportForwardingIndicator.qml">/home/livablecity/qgroundcontrol/src/UI/toolbar/APMSupportForwardingIndicator.qml</file>
+    <file alias="ArmedIndicator.qml">/home/livablecity/qgroundcontrol/src/UI/toolbar/ArmedIndicator.qml</file>
+    <file alias="GCSControlIndicator.qml">/home/livablecity/qgroundcontrol/src/UI/toolbar/GCSControlIndicator.qml</file>
+    <file alias="GimbalIndicator.qml">/home/livablecity/qgroundcontrol/src/UI/toolbar/GimbalIndicator.qml</file>
+    <file alias="JoystickIndicator.qml">/home/livablecity/qgroundcontrol/src/UI/toolbar/JoystickIndicator.qml</file>
+    <file alias="LinkIndicator.qml">/home/livablecity/qgroundcontrol/src/UI/toolbar/LinkIndicator.qml</file>
+    <file alias="ModeIndicator.qml">/home/livablecity/qgroundcontrol/src/UI/toolbar/ModeIndicator.qml</file>
+    <file alias="MultiVehicleSelector.qml">/home/livablecity/qgroundcontrol/src/UI/toolbar/MultiVehicleSelector.qml</file>
+    <file alias="RCRSSIIndicator.qml">/home/livablecity/qgroundcontrol/src/UI/toolbar/RCRSSIIndicator.qml</file>
+    <file alias="RemoteIDIndicator.qml">/home/livablecity/qgroundcontrol/src/UI/toolbar/RemoteIDIndicator.qml</file>
+    <file alias="RTKGPSIndicator.qml">/home/livablecity/qgroundcontrol/src/UI/toolbar/RTKGPSIndicator.qml</file>
+    <file alias="TelemetryRSSIIndicator.qml">/home/livablecity/qgroundcontrol/src/UI/toolbar/TelemetryRSSIIndicator.qml</file>
+    <file alias="VehicleGPSIndicator.qml">/home/livablecity/qgroundcontrol/src/UI/toolbar/VehicleGPSIndicator.qml</file>
+  </qresource>
+</RCC>
+

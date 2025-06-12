@@ -1,0 +1,21 @@
+# ninja log v5
+0	7	1749634780685628183	xz-embedded-populate-prefix/src/xz-embedded-populate-stamp/xz-embedded-populate-mkdir	2087b25eecd26bed
+0	7	1749634780685628183	/home/livablecity/qgroundcontrol/_deps/xz-embedded-subbuild/xz-embedded-populate-prefix/src/xz-embedded-populate-stamp/xz-embedded-populate-mkdir	2087b25eecd26bed
+7	1800	1749634782485628907	xz-embedded-populate-prefix/src/xz-embedded-populate-stamp/xz-embedded-populate-download	a310921995589e43
+7	1800	1749634782485628907	/home/livablecity/qgroundcontrol/_deps/xz-embedded-subbuild/xz-embedded-populate-prefix/src/xz-embedded-populate-stamp/xz-embedded-populate-download	a310921995589e43
+1800	1810	0	xz-embedded-populate-prefix/src/xz-embedded-populate-stamp/xz-embedded-populate-update	1b8d2443c69e2645
+1800	1810	0	/home/livablecity/qgroundcontrol/_deps/xz-embedded-subbuild/xz-embedded-populate-prefix/src/xz-embedded-populate-stamp/xz-embedded-populate-update	1b8d2443c69e2645
+1810	1817	1749634782495628911	xz-embedded-populate-prefix/src/xz-embedded-populate-stamp/xz-embedded-populate-patch	d71fc1d3f75e3921
+1810	1817	1749634782495628911	/home/livablecity/qgroundcontrol/_deps/xz-embedded-subbuild/xz-embedded-populate-prefix/src/xz-embedded-populate-stamp/xz-embedded-populate-patch	d71fc1d3f75e3921
+1817	1822	1749634782505628916	xz-embedded-populate-prefix/src/xz-embedded-populate-stamp/xz-embedded-populate-configure	7f172a7f407f5c46
+1817	1822	1749634782505628916	/home/livablecity/qgroundcontrol/_deps/xz-embedded-subbuild/xz-embedded-populate-prefix/src/xz-embedded-populate-stamp/xz-embedded-populate-configure	7f172a7f407f5c46
+1822	1828	1749634782515628920	xz-embedded-populate-prefix/src/xz-embedded-populate-stamp/xz-embedded-populate-build	90c3b502b0a2ebb8
+1822	1828	1749634782515628920	/home/livablecity/qgroundcontrol/_deps/xz-embedded-subbuild/xz-embedded-populate-prefix/src/xz-embedded-populate-stamp/xz-embedded-populate-build	90c3b502b0a2ebb8
+1828	1833	1749634782515628920	xz-embedded-populate-prefix/src/xz-embedded-populate-stamp/xz-embedded-populate-install	7a94167a60ceed0f
+1828	1833	1749634782515628920	/home/livablecity/qgroundcontrol/_deps/xz-embedded-subbuild/xz-embedded-populate-prefix/src/xz-embedded-populate-stamp/xz-embedded-populate-install	7a94167a60ceed0f
+1833	1840	1749634782525628924	xz-embedded-populate-prefix/src/xz-embedded-populate-stamp/xz-embedded-populate-test	112d9d0fe04bb2c7
+1833	1840	1749634782525628924	/home/livablecity/qgroundcontrol/_deps/xz-embedded-subbuild/xz-embedded-populate-prefix/src/xz-embedded-populate-stamp/xz-embedded-populate-test	112d9d0fe04bb2c7
+1840	1849	1749634782535628928	CMakeFiles/xz-embedded-populate-complete	190606178dbae96a
+1840	1849	1749634782535628928	xz-embedded-populate-prefix/src/xz-embedded-populate-stamp/xz-embedded-populate-done	190606178dbae96a
+1840	1849	1749634782535628928	/home/livablecity/qgroundcontrol/_deps/xz-embedded-subbuild/CMakeFiles/xz-embedded-populate-complete	190606178dbae96a
+1840	1849	1749634782535628928	/home/livablecity/qgroundcontrol/_deps/xz-embedded-subbuild/xz-embedded-populate-prefix/src/xz-embedded-populate-stamp/xz-embedded-populate-done	190606178dbae96a

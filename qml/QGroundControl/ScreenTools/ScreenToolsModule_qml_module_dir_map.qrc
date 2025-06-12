@@ -1,0 +1,6 @@
+<RCC>
+  <qresource prefix="/">
+    <file alias="/qml/QGroundControl/ScreenTools">/home/livablecity/qgroundcontrol/qml/QGroundControl/ScreenTools</file>
+
+  </qresource>
+</RCC>

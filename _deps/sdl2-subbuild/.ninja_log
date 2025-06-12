@@ -1,0 +1,21 @@
+# ninja log v5
+0	7	1749634600093037609	sdl2-populate-prefix/src/sdl2-populate-stamp/sdl2-populate-mkdir	5d1ef881344c4044
+0	7	1749634600093037609	/home/livablecity/qgroundcontrol/_deps/sdl2-subbuild/sdl2-populate-prefix/src/sdl2-populate-stamp/sdl2-populate-mkdir	5d1ef881344c4044
+7	92018	1749634692111090919	sdl2-populate-prefix/src/sdl2-populate-stamp/sdl2-populate-download	8a14936f9cbdad4e
+7	92018	1749634692111090919	/home/livablecity/qgroundcontrol/_deps/sdl2-subbuild/sdl2-populate-prefix/src/sdl2-populate-stamp/sdl2-populate-download	8a14936f9cbdad4e
+92018	92028	0	sdl2-populate-prefix/src/sdl2-populate-stamp/sdl2-populate-update	d0d8ee26229286dc
+92018	92028	0	/home/livablecity/qgroundcontrol/_deps/sdl2-subbuild/sdl2-populate-prefix/src/sdl2-populate-stamp/sdl2-populate-update	d0d8ee26229286dc
+92028	92034	1749634692121090883	sdl2-populate-prefix/src/sdl2-populate-stamp/sdl2-populate-patch	ebc70aa8af59a9f7
+92028	92034	1749634692121090883	/home/livablecity/qgroundcontrol/_deps/sdl2-subbuild/sdl2-populate-prefix/src/sdl2-populate-stamp/sdl2-populate-patch	ebc70aa8af59a9f7
+92034	92040	1749634692131090847	sdl2-populate-prefix/src/sdl2-populate-stamp/sdl2-populate-configure	96a4a44b19135e5a
+92034	92040	1749634692131090847	/home/livablecity/qgroundcontrol/_deps/sdl2-subbuild/sdl2-populate-prefix/src/sdl2-populate-stamp/sdl2-populate-configure	96a4a44b19135e5a
+92040	92046	1749634692131090847	sdl2-populate-prefix/src/sdl2-populate-stamp/sdl2-populate-build	3a3dd20ee59572cd
+92040	92046	1749634692131090847	/home/livablecity/qgroundcontrol/_deps/sdl2-subbuild/sdl2-populate-prefix/src/sdl2-populate-stamp/sdl2-populate-build	3a3dd20ee59572cd
+92046	92052	1749634692141090810	sdl2-populate-prefix/src/sdl2-populate-stamp/sdl2-populate-install	d73bb4ce622860d
+92046	92052	1749634692141090810	/home/livablecity/qgroundcontrol/_deps/sdl2-subbuild/sdl2-populate-prefix/src/sdl2-populate-stamp/sdl2-populate-install	d73bb4ce622860d
+92052	92058	1749634692151090774	sdl2-populate-prefix/src/sdl2-populate-stamp/sdl2-populate-test	fe656fe952c22fc3
+92052	92058	1749634692151090774	/home/livablecity/qgroundcontrol/_deps/sdl2-subbuild/sdl2-populate-prefix/src/sdl2-populate-stamp/sdl2-populate-test	fe656fe952c22fc3
+92059	92067	1749634692151090774	CMakeFiles/sdl2-populate-complete	d18d1f2b3e5cc528
+92059	92067	1749634692151090774	sdl2-populate-prefix/src/sdl2-populate-stamp/sdl2-populate-done	d18d1f2b3e5cc528
+92059	92067	1749634692151090774	/home/livablecity/qgroundcontrol/_deps/sdl2-subbuild/CMakeFiles/sdl2-populate-complete	d18d1f2b3e5cc528
+92059	92067	1749634692151090774	/home/livablecity/qgroundcontrol/_deps/sdl2-subbuild/sdl2-populate-prefix/src/sdl2-populate-stamp/sdl2-populate-done	d18d1f2b3e5cc528

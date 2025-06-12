@@ -281,3 +281,19 @@ public:
             AVERAGE_TILE_SIZE,
             QGeoMapType::SatelliteMapDay) {}
 };
+
+class MapGENMapProvider : public MapProvider
+{
+   public:
+    MapGENMapProvider()
+        : MapProvider(
+              QStringLiteral("MapGEN"),
+              QStringLiteral("https://livablecitylab.hkust-gz.edu.cn/"),
+              QStringLiteral("png"),
+              AVERAGE_TILE_SIZE,
+              QGeoMapType::StreetMap) {}
+
+   private:
+    QString _getURL(int x, int y, int zoom) const final;
+
+};

@@ -1,0 +1,6 @@
+<RCC>
+  <qresource prefix="/">
+    <file alias="/qml/QGroundControl/Vehicle">/home/livablecity/qgroundcontrol/qml/QGroundControl/Vehicle</file>
+
+  </qresource>
+</RCC>

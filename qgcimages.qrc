@@ -215,4 +215,7 @@
         <file alias="ZoomPlus.svg">src/FlightMap/Images/ZoomPlus.svg</file>
         <file alias="Viewer3D/City3DMapIcon.svg">src/Viewer3D/Images/city_3d_map_icon.svg</file>
     </qresource>
+    <qresource prefix="/">
+        <file>img_add/MapGEN.jpg</file>
+    </qresource>
 </RCC>

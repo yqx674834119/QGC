@@ -79,3 +79,8 @@ QString VWorldMapProvider::_getURL(int x, int y, int zoom) const
     const QString VWorldMapToken = SettingsManager::instance()->appSettings()->vworldToken()->rawValue().toString();
     return _mapUrl.arg(VWorldMapToken, _mapName).arg(zoom).arg(y).arg(x).arg(_imageFormat);
 }
+
+QString MapGENMapProvider::_getURL(const int x, const int y, const int zoom) const
+{
+      return QStringLiteral("https://livablecitylab.hkust-gz.edu.cn/styles/OSM OpenMapTiles/%3/%1/%2.png").arg(x).arg(y).arg(zoom);
+}

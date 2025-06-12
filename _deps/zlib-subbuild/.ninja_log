@@ -1,0 +1,21 @@
+# ninja log v5
+0	7	1749634766604162504	zlib-populate-prefix/src/zlib-populate-stamp/zlib-populate-mkdir	931163c7d006783d
+0	7	1749634766604162504	/home/livablecity/qgroundcontrol/_deps/zlib-subbuild/zlib-populate-prefix/src/zlib-populate-stamp/zlib-populate-mkdir	931163c7d006783d
+7	12819	1749634779414173984	zlib-populate-prefix/src/zlib-populate-stamp/zlib-populate-download	6ca02f80e06b30d
+7	12819	1749634779414173984	/home/livablecity/qgroundcontrol/_deps/zlib-subbuild/zlib-populate-prefix/src/zlib-populate-stamp/zlib-populate-download	6ca02f80e06b30d
+12819	13538	0	zlib-populate-prefix/src/zlib-populate-stamp/zlib-populate-update	3cb90d84c989e121
+12819	13538	0	/home/livablecity/qgroundcontrol/_deps/zlib-subbuild/zlib-populate-prefix/src/zlib-populate-stamp/zlib-populate-update	3cb90d84c989e121
+13538	13545	1749634780144174395	zlib-populate-prefix/src/zlib-populate-stamp/zlib-populate-patch	cc88df75b80edf56
+13538	13545	1749634780144174395	/home/livablecity/qgroundcontrol/_deps/zlib-subbuild/zlib-populate-prefix/src/zlib-populate-stamp/zlib-populate-patch	cc88df75b80edf56
+13545	13551	1749634780154174399	zlib-populate-prefix/src/zlib-populate-stamp/zlib-populate-configure	9a7707326f3094ed
+13545	13551	1749634780154174399	/home/livablecity/qgroundcontrol/_deps/zlib-subbuild/zlib-populate-prefix/src/zlib-populate-stamp/zlib-populate-configure	9a7707326f3094ed
+13551	13557	1749634780154174399	zlib-populate-prefix/src/zlib-populate-stamp/zlib-populate-build	c9c768a95e5d2b8e
+13551	13557	1749634780154174399	/home/livablecity/qgroundcontrol/_deps/zlib-subbuild/zlib-populate-prefix/src/zlib-populate-stamp/zlib-populate-build	c9c768a95e5d2b8e
+13557	13563	1749634780164174403	zlib-populate-prefix/src/zlib-populate-stamp/zlib-populate-install	93a8a52ab62e6f6a
+13557	13563	1749634780164174403	/home/livablecity/qgroundcontrol/_deps/zlib-subbuild/zlib-populate-prefix/src/zlib-populate-stamp/zlib-populate-install	93a8a52ab62e6f6a
+13563	13569	1749634780174174408	zlib-populate-prefix/src/zlib-populate-stamp/zlib-populate-test	3cbb20b3414db9b
+13563	13569	1749634780174174408	/home/livablecity/qgroundcontrol/_deps/zlib-subbuild/zlib-populate-prefix/src/zlib-populate-stamp/zlib-populate-test	3cbb20b3414db9b
+13569	13578	1749634780174174408	CMakeFiles/zlib-populate-complete	2bc01120119a2f75
+13569	13578	1749634780174174408	zlib-populate-prefix/src/zlib-populate-stamp/zlib-populate-done	2bc01120119a2f75
+13569	13578	1749634780174174408	/home/livablecity/qgroundcontrol/_deps/zlib-subbuild/CMakeFiles/zlib-populate-complete	2bc01120119a2f75
+13569	13578	1749634780174174408	/home/livablecity/qgroundcontrol/_deps/zlib-subbuild/zlib-populate-prefix/src/zlib-populate-stamp/zlib-populate-done	2bc01120119a2f75
