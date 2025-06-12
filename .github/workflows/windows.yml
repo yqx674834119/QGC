@@ -1,6 +1,7 @@
 name: Windows
 
 on:
+  workflow_dispatch:  # ✅ 允许你在 GitHub Actions 页面点击 Run workflow 启动构建
   push:
     branches:
       - master
@@ -8,7 +9,7 @@ on:
     tags:
       - 'v*'
     paths-ignore:
-      - 'docs/**' # Do not trigger for any changes under docs
+      - 'docs/**'
   pull_request:
     paths:
       - '.github/workflows/windows.yml'
